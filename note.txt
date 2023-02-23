@@ -1,0 +1,6 @@
+This program was developed years ago when my programming skill is still very poor.
+I have no time to reorganize and improve the codes after graduated from the school,
+so, if you have any problem on reading the codes, please feel free to contact me.
+
+Kane Xu
+2011.2.11
